@@ -1,11 +1,11 @@
 <h1 align="center">Hey! I'm Asmita Yadav</h1>
-<h3 align="center">Curious Learner, Data Analyst and Full Stack Developer</h3>
+<h3 align="center">Curious Learner, Data Analyst and Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asmita743&label=Profile%20views&color=0e75b6&style=flat" alt="asmita743" /> </p>
 
 - 🔭 I’m currently learning and working on *Data Analysis & Full-Stack Development Projects*
 
-- 🌱 Beta Microsoft Learn Student Ambassador, *Microsoft certified Power BI Data Analyst(PL-300)*
+- 🌱 Beta Microsoft Learn Student Ambassador, *Microsoft certified :Power BI Data Analyst(PL-300), Fabric analytics engineer(DP-600)*
 
 - 📫 Reach me *asmitayadav7021@gmail.com*
 
