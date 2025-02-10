@@ -7,7 +7,7 @@
 
 - 🌱 Beta Microsoft Learn Student Ambassador, *Microsoft certified :Power BI Data Analyst(PL-300), Fabric analytics engineer(DP-600)*
 
-- 📫 Reach me *asmitayadav7021@gmail.com*
+- 📫 Reach me *asmita7021@gmail.com*
 
 - ⚡My passion includes *Public Speaking and Anchoring at Tech Conferences and meet-ups.*
 
